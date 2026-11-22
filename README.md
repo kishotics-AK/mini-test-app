@@ -2,7 +2,7 @@
 
 A small online test app: students sign up, take a 10-question timed MCQ test, see their results, and review past attempts.
 
-**Live app:** <paste your Render link here>
+**Live app:** https://mini-test-app.onrender.com
 **Stack:** MongoDB (Atlas), Express, React (Vite), Node.js
 
 ## Features
